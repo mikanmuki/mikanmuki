@@ -1,6 +1,13 @@
-# memo
-## HyperLink
+# リンク集
+いろいろなリンク集
+
+## 1．Internet
 [Google](https://www.google.co.jp/)
+
+## 2．Notes
+[Google](https://www.google.co.jp/)
+
+
 
 <!--
 **mikanmuki/mikanmuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
