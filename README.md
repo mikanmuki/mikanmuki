@@ -7,6 +7,10 @@
 ## 2．Notes
 [Google](https://www.google.co.jp/)
 
+[Wind](C:\Users\kazuh\OneDrive\ドキュメント\お仕事)
+[Wind](C:\Users\kazuh\OneDrive\ドキュメント\お仕事)
+<a href="file:///C:\Users\kazuh\OneDrive\">open...</a>
+
 
 <!--
 **mikanmuki/mikanmuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
