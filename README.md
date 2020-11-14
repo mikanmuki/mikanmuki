@@ -4,6 +4,10 @@
 ## 2．Tips
 [最低限のGitHub便利機能を抑えて、管理質向上](https://qiita.com/t_o_d/items/94d475365ec7d78f5fd0)
 
+## 3．etc
+[index.html](./docs/index.html)
+
+
 
 <!--
 **mikanmuki/mikanmuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
