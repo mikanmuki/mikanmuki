@@ -7,7 +7,7 @@
 ## 3．etc
 [index.html](./docs/index.html)
 
-[Toppage](https://github.com/mikanmuki/mikanmuki/blob/main/index.html)
+[Toppage](https://mikanmuki.github.io/mikanmuki/)
 
 
 <!--
