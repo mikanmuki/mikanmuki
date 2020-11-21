@@ -6,9 +6,7 @@
 
 ## 3．etc
 [tasks](https://github.com/mikanmuki/tasks/projects/1)
-
 [index.html](./docs/index.html)
-
 [Toppage](https://mikanmuki.github.io/mikanmuki/)
 
 
