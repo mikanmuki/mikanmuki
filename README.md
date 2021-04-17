@@ -5,7 +5,11 @@
 [最低限のGitHub便利機能を抑えて、管理質向上](https://qiita.com/t_o_d/items/94d475365ec7d78f5fd0)
 
 ## 3．etc
+[tasks](https://github.com/mikanmuki/tasks/projects/1)
+
 [index.html](./docs/index.html)
+
+[Toppage](https://mikanmuki.github.io/mikanmuki/)
 
 
 
